@@ -4,7 +4,7 @@ I'm pursuing my education in Computer Science at the [Ontario Tech University](h
 -> ✨ Check out some of my work at [sobanfarhan.net](https://www.sobanfarhan.net/) ✨ <-
 
 ### What am I currently doing?
- -   Looking into technologies such as GraphQL, MERN stack, and Scylla.
+ -   Looking into technologies such as GraphQL, MERN stack, and ScyllaDB.
  -   Developing my own app. Currently working on a KANBAN like application with Slack integration.
  -   Doing an overhaul of my website. New Year, new website.
  -   Watching anime and playing games in my free time.
