@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Soban Farhan :)
 
-I'm pursuing my education in Computer Science at the [Ontario Tech University](https://ontariotechu.ca/) and am extremely interested in software developemet, system design, and full stack appllication development!</br></br>
--> ✨ Check out some of my work at [sobanfarhan.net](https://www.sobanfarhan.net/) ✨ <-
+A dedicated and highly motivated Software Developer, current employed at Re:Sound specializing in the Full Stack Development.</br></br>
+-> ✨ Check out some of my work at [sobanfarhan.com](https://www.sobanfarhan.com/) ✨ <-
 
 ### What am I currently doing?
  -   Looking into technologies such as GraphQL, MERN stack, and ScyllaDB.
