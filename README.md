@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Soban Farhan :)
 
-A dedicated and highly motivated Software Developer, current employed at Re:Sound specializing in the Full Stack Development.</br></br>
+A dedicated and highly motivated Software Developer, currently employed at [Re:Sound](https://www.resound.ca/) specializing in the Full Stack Development.</br></br>
 -> ✨ Check out some of my work at [sobanfarhan.com](https://www.sobanfarhan.com/) ✨ <-
 
 ### What am I currently doing?
