@@ -4,9 +4,8 @@ A dedicated and highly motivated Software Developer and recent employee of [Re:S
 -> ✨ Check out some of my work at [sobanfarhan.com](https://sobanfarhan.com/) ✨ <-
 
 ### What am I currently doing?
- -   Looking into technologies such as GraphQL, MERN stack, and ScyllaDB.
- -   Developing my own app. Currently working on a KANBAN like application with Slack integration.
- -   Revisiting one of my old project ([KWH](https://github.com/Soban-Farhan/KingWilliamHotel)) and looking into making it a Full Stack Application.
+ -   Looking into technologies such as NextJS 13, MERN stack, and ScyllaDB.
+ -   Developing a web application and Chrome extension to an existing app, a mobile app called [Pillars](https://www.thepillarsapp.com/).
  -   Watching anime and playing games in my free time.
  
 [Website](https://sobanfarhan.com/) | [LinkedIn](https://www.linkedin.com/in/sobanfarhan/) | [Instagram](https://www.instagram.com/soban.farhan/)
